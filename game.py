@@ -1,4 +1,4 @@
-word = input('Please enter world:  ')
+word = input('Please enter word:  ')
 
 
 def hangman(word):
