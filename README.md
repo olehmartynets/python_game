@@ -1,2 +1,3 @@
 # python_game
-python app
+ 1. download
+ 2. python3 game.py
